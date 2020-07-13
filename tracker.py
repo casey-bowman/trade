@@ -1,9 +1,9 @@
-""" The gain_tracker module calculates the gain from a series of trades exported from Coinbase in CSV format
+""" The tracker module calculates the gain from a series of trades exported from Coinbase in CSV format
 
 Options
 -------
 --filename
-    The name of the CSV file placed in the same folder as gain_tracker.py
+    The name of the CSV file placed in the same folder as tracker.py
     default: trades.csv
 
 --debug
