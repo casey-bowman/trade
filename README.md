@@ -1,4 +1,6 @@
-# trade (beta version)
+# trade 
+
+(beta version)
 
 ## tracker
 The tracker module calculates the gain and total fees from a series of trades exported from Coinbase in CSV format
